@@ -1,0 +1,28 @@
+.footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: #28d1ff;
+    padding: 40px 60px;
+}
+.footer-list{
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    gap: 20px;
+    justify-content: space-between;
+
+}
+.footer-list p{
+    font-weight: 550;
+    font-size: 20px;
+}
+ul,li{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.connect{
+ display: flex;
+    flex-direction: column;   
+}
